@@ -29,7 +29,7 @@ Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşıl
  <a href="https://www.instagram.com/aspectcim/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=vegasdev&show_icons=true&hide_title=true&theme=merko">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=aspectcim&show_icons=true&hide_title=true&theme=merko">
 
 💻 Diller Ve Araçlar
 
