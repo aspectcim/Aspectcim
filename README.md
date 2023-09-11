@@ -1,6 +1,6 @@
 ### Herkese Selam! Profilime Hoşgeldiniz <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=vegasdev&color=blue"/>
+    <img src="https://komarev.com/ghpvc/?username=aspectcim&color=blue"/>
 </div>
 
 Selam, ben 2021 Şubat'dan beri Discord botları ile uğraşıyorum.
